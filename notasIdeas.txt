@@ -1,0 +1,22 @@
+CTA - Call To Action "Llamado a la acción":  Cualquier elemento que invite a realizar una acción (botón, enlace, frase destacada).
+Ejemplos CTA:
+- BOTONES:
+* Ver proyectos
+* Descargar CV
+* Contactame
+* Suscribite al newsletter
+
+- ENLACES DESTACADOS:
+* "Explora mi trabajo"
+* "Conoce más sobre mí"
+
+- FRASES PERSUASIVAS:
+* "¿Listo para trabajar juntos?"
+* "Transformá tu idea en diseño"
+
+¿Por qué es importante?
+Un buen CTA:
+• 	Mejora la experiencia del usuario
+• 	Aumenta la interacción con tu sitio
+• 	Refuerza tu marca y propósito
+• 	Dirige al visitante hacia tus objetivos (contacto, venta, suscripción, etc.)

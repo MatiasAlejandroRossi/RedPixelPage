@@ -1,0 +1,50 @@
+/* Reset básico */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root {
+  /* Fuentes */
+  --font-primary: 'Inter', sans-serif;
+  /* Tamaños de fuente */
+  --font-size-h1: 3rem;
+  --font-size-h2: 2.4rem;
+  --font-size-h3: 1.92rem;
+  --font-size-lead: 1.6rem;
+  --font-size-base: 1rem;
+  --font-size-small: 0.875;
+  /* Grosores de fuente */
+  --font-weight-bold: 700;
+  --font-weight-semibold: 600;
+  --font-weigth-medium: 500;
+  --font-weight-regular: 400;
+  --font-weight-light: 300;
+  /* ...Guia de uso...
+  - H1: h1 y bold.
+  - H2: h2 y semibold.
+  - H3: h3 y medium.
+  - Texto grande: lead y regular.
+  - Texto base (body): base y regular.
+  - Texto pequeño: small y light.
+  -Botones CTA: base y semibold.
+  */
+}
+/* body{} */
+header{
+  background-color: red;
+  display: inline-flex;
+
+}
+/* main{ */
+  /* background-color: green; */
+/* } */
+h2::first-letter {
+  font-size: 2em;
+  color: red;
+  float: left;
+}
+
+footer{
+  background-color: blue;
+}
